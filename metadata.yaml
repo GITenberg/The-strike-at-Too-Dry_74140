@@ -1,0 +1,31 @@
+_repo: The-strike-at-Too-Dry_74140
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brindley, Willis
+    gutenberg_agent_id: '57362'
+    url: http://www.gutenberg.org/2009/agents/57362
+description: ''
+gutenberg_issued: '2024-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74140'
+language: en
+pgterms:marc905: 20240721200121brindley
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aUnited States :$bThe Consolidated Magazines Corporation, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Western stories'
+- !lcsh 'Gold miners -- Fiction'
+- !lcsh 'Montana -- Fiction'
+- !lcsh 'Ranches -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The strike at Too Dry
+url: http://www.gutenberg.org/ebooks/74140
