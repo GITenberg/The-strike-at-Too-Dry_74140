@@ -1,11 +1,16 @@
 _repo: The-strike-at-Too-Dry_74140
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74140-h/images/cover.jpg
 creator:
   author:
     agent_name: Brindley, Willis
     gutenberg_agent_id: '57362'
     url: http://www.gutenberg.org/2009/agents/57362
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74140#The-strike-at-Too-Dry
 gutenberg_issued: '2024-07-27'
 gutenberg_type: Text
 identifiers:
